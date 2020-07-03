@@ -1,0 +1,13 @@
+Source: quark-splash-dark
+Section: kde
+Priority: optional
+Maintainer: Adrian <adrian@mxlinux.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.8
+
+Package: quark-splash-dark
+Architecture: all
+Depends: ${misc:Depends},
+         ${shlibs:Depends}
+Description: Quark Splash Dark
+ QuarksSplash for Plasma KDE

@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 03 Jul 2020 01:33:32 -0400
+Source: quark-splash-dark
+Binary: quark-splash-dark
+Architecture: source all
+Version: 20.7
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ quark-splash-dark - Quark Splash Dark
+Changes:
+ quark-splash-dark (20.7) mx; urgency=medium
+ .
+   * initial release
+Checksums-Sha1:
+ ad5b8c74c3a9c7d459a4bae86ad0bbf1b2f7cd6a 1117 quark-splash-dark_20.7.dsc
+ ad66d5f6cdd529ce6345a63e0b1289f2c0713f39 844628 quark-splash-dark_20.7.tar.xz
+ 9da92693a22bb9cc95cd20c7eaec458e438daf00 845108 quark-splash-dark_20.7_all.deb
+ e314fba97fc68fa3365f21ba8b849e5b2c6c4dd6 5551 quark-splash-dark_20.7_amd64.buildinfo
+Checksums-Sha256:
+ 751b169c40973104da53ace758746157d1704f82f688466c42bd1e9a27ce7918 1117 quark-splash-dark_20.7.dsc
+ fe35b086042320329cc3f3df2b82710b2ce0a99dd11cb77098ff83235e3172f6 844628 quark-splash-dark_20.7.tar.xz
+ cb7e75490a9aede9843d3dad0c10e705cc304fee33aa12b06777b7d93d1d5a0a 845108 quark-splash-dark_20.7_all.deb
+ df81f39c425638a75e24e018b62cdf052bd402996a06a4d08eb9500d846abdb2 5551 quark-splash-dark_20.7_amd64.buildinfo
+Files:
+ 79462ca8e9386962ed63641954597d21 1117 kde optional quark-splash-dark_20.7.dsc
+ a1ea7b28c78a86240da26c6bfe220398 844628 kde optional quark-splash-dark_20.7.tar.xz
+ 6679c75f3ae48dde3028d3ce630d321f 845108 kde optional quark-splash-dark_20.7_all.deb
+ 95ba50a78a7c5e5c26de6594af47ad1b 5551 kde optional quark-splash-dark_20.7_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl7+xTATHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumL6FB/4j93N+CtneykbvBEOShnJBvAcd+dk7
+Iqn2VnZ5ga7ML+0owDDhmOtRNbPN1mcFTvjDWS7FN+sePqk+Vs+jySV013jtnonb
+AAckCigBcEr+ZEMhpyR0rXoN1Upgfp8H+11W6hgJoUME7Mv57jhUHLEpv+0a6VJu
+8QwKNNWwXtCRkxe4cwrt1npsPnx4Y8wxAhWin/6NMYVYQBT22N8jvu4ZeNmuFLX5
+XVQQtLk3aSyivuubi6lyj9/l/2DmkvJZW4IYolwpTVzyrnIgZVxQ440cHh6mI4wE
+DdDmlQxvEjeyhagAf8pkXeEX5waUOcUlxG9DQ9+Bxwk+gTXtDxqG+A7X
+=sjUx
+-----END PGP SIGNATURE-----
