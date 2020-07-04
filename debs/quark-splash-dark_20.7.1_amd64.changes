@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 03 Jul 2020 23:55:30 -0400
+Source: quark-splash-dark
+Binary: quark-splash-dark
+Architecture: source all
+Version: 20.7.1
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ quark-splash-dark - Quark Splash Dark
+Changes:
+ quark-splash-dark (20.7.1) mx; urgency=medium
+ .
+   * fix folder location
+Checksums-Sha1:
+ 18e4d0a1b408210973d11e41b88b389e08b2c583 1125 quark-splash-dark_20.7.1.dsc
+ a9dc7b0ec9c988ec7ad07379d0fc3cfd49a29c23 850852 quark-splash-dark_20.7.1.tar.xz
+ cb35de1675b550472383e31670769044279ff916 845174 quark-splash-dark_20.7.1_all.deb
+ f5832d80ea654e6b4514284266e7227c84dbe530 5567 quark-splash-dark_20.7.1_amd64.buildinfo
+Checksums-Sha256:
+ f58948afe8e3f81164e1630cbefa62b4488c620f6bfe9fa79d6b6bfcfaefe1bc 1125 quark-splash-dark_20.7.1.dsc
+ 1c203e17414c312520b3d65e50b80b56408c61c0fefac8d573fa40468b9af0ab 850852 quark-splash-dark_20.7.1.tar.xz
+ b352de0ca229cdf68171ccde98fe9ba2f6c8a17872b4b23ec249fa63f86871f1 845174 quark-splash-dark_20.7.1_all.deb
+ f00ffb5a0797e8901da3bed17afe5509357702d308ffc4dea68e6f3282b27759 5567 quark-splash-dark_20.7.1_amd64.buildinfo
+Files:
+ 299c5a073792072d21ef140da747664d 1125 kde optional quark-splash-dark_20.7.1.dsc
+ d62f3dc7e6e2081dd1645dba774fba75 850852 kde optional quark-splash-dark_20.7.1.tar.xz
+ f294d74b3b9d8c112319979582c6b9cf 845174 kde optional quark-splash-dark_20.7.1_all.deb
+ 7a11cf9917dc7cc7b05ea4237bedc882 5567 kde optional quark-splash-dark_20.7.1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl7//iUTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBRGCACrwW94thOxmwdQc93/gMb5IX/4U0qe
+G2P7lE9NEBD+2lXwRMgEOJyMolPhGpLDGivxR05FnxKvucgp0fye175Thp9d1WBQ
+Jt3n+fHiYhrE7H4+EgA6EyUwKO2HiuhSHDgRQ64zDnr7hOPTLFaYqdfaFf0DSAuC
+dDPKYsoP7CInFTPJrID4BthHsicYAG39TyB6+oIb9auW/lke1N9hbEpTnvJ8wl6C
+8nyDXu/quScvpgCNP9RwRnf5fcZr7C5zN79NPjrNmsawI/Zsuj2mVJ9tGnqjZeU0
+JrOgnjK6+L+nwiQcSNd4eUN6S68cL/AmVQQm7Q6Iw3qAzPYEQdl/atxq
+=hgGl
+-----END PGP SIGNATURE-----

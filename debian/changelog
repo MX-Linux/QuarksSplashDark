@@ -1,3 +1,9 @@
+quark-splash-dark (20.7.1) mx; urgency=medium
+
+  * fix folder location
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 03 Jul 2020 23:55:30 -0400
+
 quark-splash-dark (20.7) mx; urgency=medium
 
   * initial release
